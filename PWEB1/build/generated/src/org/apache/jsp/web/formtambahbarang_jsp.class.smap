@@ -1,0 +1,25 @@
+SMAP
+formtambahbarang_jsp.java
+JSP
+*S JSP
+*F
++ 0 formtambahbarang.jsp
+web/formtambahbarang.jsp
++ 1 header.jsp
+web/header.jsp
++ 2 footer.html
+web/footer.html
+*L
+5,5:50
+5#1,18:54
+23:72,3
+24:75
+25:76,3
+26,12:79
+38:91,3
+39,12:94
+51:106,3
+52,4:109
+9#0,22:113
+1#2,13:134
+*E
